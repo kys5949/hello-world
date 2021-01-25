@@ -1,2 +1,3 @@
 # hello-world
-Let me do this again ~~
+내 첫번째 GitHub 경험 ㅎㅎ
+
