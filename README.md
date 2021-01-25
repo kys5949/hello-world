@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+내 첫번째 GitHub 경험 ㅎㅎ
